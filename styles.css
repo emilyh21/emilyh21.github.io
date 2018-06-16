@@ -5,11 +5,12 @@
     margin-right: auto;
     width: 57%;
 }
-.header{
+.headerImage{
    display: block;
     margin-left: auto;
     margin-right: auto;
     width: 57%;
+    margin-top:5px;
 }
 }
 body  {
@@ -38,7 +39,7 @@ h1 {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-  margin-top: 130px;
+  margin-top: 42px;
 }
 
 .mainpic {

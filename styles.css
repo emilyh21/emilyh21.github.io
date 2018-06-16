@@ -6,6 +6,16 @@
       margin-top: 348px;
     margin-left: 336px;
 }
+@media(min-width:1595px ){
+  .video{
+   margin-left: 222px;
+   margin-top: -731px;
+}
+.spotify {
+      margin-top: 348px;
+    margin-left: 336px;
+}
+}
 body  {
 	 background: #F0B7CD;
 	font-family: sans-serif;

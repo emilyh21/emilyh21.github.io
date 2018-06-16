@@ -3257,5 +3257,4 @@
         return e.$ === w && (e.$ = Kt), t && e.jQuery === w && (e.jQuery = Jt), w
     }, t || (e.jQuery = e.$ = w), w
 
-    $(".spotify").insertAfter(".video");
 });

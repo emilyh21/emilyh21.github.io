@@ -1,11 +1,7 @@
 .video{
-   margin-left: 205px;
-   margin-top: -731px;
+    margin-left: 215px;
 }
-.spotify {
-      margin-top: 348px;
-    margin-left: 336px;
-}
+
 @media(min-width:1595px ){
   .video{
    margin-left: 222px;

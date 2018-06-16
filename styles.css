@@ -110,7 +110,7 @@ h1 {
 
 #heartsContainer {
 	position: fixed;
-  bottom: auto;
+  bottom: 0;
   width: 100%;
 }
 
